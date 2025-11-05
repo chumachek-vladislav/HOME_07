@@ -12,7 +12,7 @@
    -switch (n) {
    case n: 
    -printf
-   break;
+   break; }
 4. **Конец**
 
 ## 2. Реализация программы
